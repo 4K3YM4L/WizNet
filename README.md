@@ -1,6 +1,8 @@
 # WizNet
 WizNet is a bash script tool designed to enable users to retrieve information about a specific IP address.
 
+![image](https://user-images.githubusercontent.com/127394223/232252487-73aae658-531d-4cad-8622-eba52c585342.png)
+
 WizNet is highly customizable, and users can choose whether to use their local IP or another IP address. It has a straightforward command-line interface, making it simple to use, even for users with limited technical expertise.
 
 # Features
